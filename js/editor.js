@@ -882,7 +882,7 @@
     savable:false,
     width: 'inherit',
     height: 'inherit',
-    resize: 'none',
+    resize: 'default',
     iconlibrary: 'glyph',
     language: 'en',
     initialstate: 'editor',
